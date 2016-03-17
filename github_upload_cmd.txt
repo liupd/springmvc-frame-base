@@ -1,0 +1,6 @@
+找到你要上传的文件目录：
+使用如下命令：
+（1） $ git add .
+（2） $ git commit -m "test"（引号中随便写）
+（3） $ git pull
+（4） $ git push -u origin master

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="exercuse:war">
+    <output-path>$PROJECT_DIR$/exercuse/target</output-path>
+    <root id="archive" name="exercuse-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="exercuse:war exploded" />
+    </root>
+  </artifact>
+</component>
